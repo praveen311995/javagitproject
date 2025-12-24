@@ -16,5 +16,7 @@ public void empId() {
 			System.out.println(a[i]);
 		}
 	}
+	
+	System.out.println("pra");
 }
 }
