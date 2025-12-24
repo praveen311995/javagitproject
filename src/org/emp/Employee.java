@@ -18,5 +18,8 @@ public void empId() {
 			System.out.println("2nd update");
 		}
 	}
+	
+	
+	System.out.println("pra");
 }
 }
