@@ -14,8 +14,11 @@ public void empId() {
 	for (int i = a.length-1; i >=0; i--) {
 		if(a[i]==a[a.length-1]) {
 			System.out.println(a[i]);
+			
+			System.out.println("2nd update");
 		}
 	}
+	
 	
 	System.out.println("pra");
 }
